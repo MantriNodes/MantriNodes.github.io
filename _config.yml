@@ -27,7 +27,7 @@ author:  Mantri Nodes
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to Mantri Nodes, a leading company specializing in running Validators on blockchain networks. With our exceptional expertise and dedication, we provide reliable and secure sevice on PoS networks. <BR> Take a look to our latest nodes and STAKE WITH US!
 
-baseurl: "MantriNodes" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: MantriNodes
 github_username:  MantriNodes
@@ -35,12 +35,14 @@ github_username:  MantriNodes
 #discord_id: 892336701719068672
 
 # Build settings
-theme: jekyll-theme-clean-blog
+# theme: jekyll-theme-clean-blog
+remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+  - jekyll-remote-theme
 
 logo: /img/logo_transparent.png
 
