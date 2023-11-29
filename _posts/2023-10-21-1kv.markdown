@@ -20,6 +20,6 @@ We're thrilled to announce that Mantri Nodes has proudly become a part of [Kusam
 Validator Address:
 [G4R7xgGCuuxHpg17sxpwmUFFv4RATrpm4EMiTd8w3mCvjnp](https://kusama.subscan.io/validator/G4R7xgGCuuxHpg17sxpwmUFFv4RATrpm4EMiTd8w3mCvjnp)
 
-We're incredibly grateful for the opportunity to contribute to Kusama's journey towards a more open and decentralized future. Join us as we embrace this new chapter together!
+We're incredibly grateful for the opportunity to contribute to Kusama's journey towards a more open and decentralized future. Join us as we embrace this new chapter together!!!
 
 Thank you for your continued support. Let's continue to build a more decentralized tomorrow!
