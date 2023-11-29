@@ -1,0 +1,21 @@
+---
+layout: page
+title: Our Validators
+description: Keep Your Funds Safe! Stake With US!
+background: '/img/bg-Nodes.jpg'
+---
+
+<link rel="stylesheet" href="/assets/stylesCard.css">
+
+<div class="card-list">
+  {% for val in site.data.validators %}
+    <div class="validator-card">
+      <a href="{{ val.image_link }}" target="_blank">
+      <img src="{{ val.image }}" class="validator-image"></a>
+      <h2><a href="{{ val.title_link }}" target="_blank">{{ val.title }}</a></h2>
+      <p>{{ val.description }}</p>
+      Address: <a href="{{ val.address_link }}" target="_blank"> {{ val.address }}  </a>
+      <a href="{{ val.stake_with_us_link }}" class="btn_card" target="_blank">{{ val.stake_with_us_text }}</a>
+    </div>
+  {% endfor %}
+</div>

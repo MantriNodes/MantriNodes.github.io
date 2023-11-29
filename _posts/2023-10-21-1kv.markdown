@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Mantri Nodes Joins Kusama's 1KV Program!"
+subtitle: "We are happy to annunce that our Validator is now part of the 1 Thousand Validator Program!"
+date:   2023-10-21 21:47:00 +0200
+categories: Nodes update
+background: '/img/posts/post001.jpg'
+---
+
+Greetings, fellow Kusama enthusiasts!
+
+We're thrilled to announce that Mantri Nodes has proudly become a part of [Kusama's 1 Thousand Validators (1KV) Program](https://wiki.polkadot.network/docs/thousand-validators), and we couldn’t be more excited about this new milestone!
+
+🎉 **A Heartfelt Thanks**: A huge shoutout to the **[Web3 Foundation](https://web3.foundation/)** and **[Parity Technologies](https://www.parity.io/)** for this incredible opportunity. We're deeply honored to contribute to the decentralized ecosystem as part of the 1KV family.
+
+💡 **What It Means to Us**: Being part of the 1KV Program means a commitment to Kusama's vision of decentralization. It signifies our dedication to network resilience and security, actively participating in consensus and governance.
+
+✨ **Strengthening Decentralization**: Our involvement in the 1KV Program reinforces our mission to promote decentralization. We're committed to furthering the values of transparency, inclusivity, and robustness in the blockchain space.
+
+Validator Address:
+[G4R7xgGCuuxHpg17sxpwmUFFv4RATrpm4EMiTd8w3mCvjnp](https://kusama.subscan.io/validator/G4R7xgGCuuxHpg17sxpwmUFFv4RATrpm4EMiTd8w3mCvjnp)
+
+We're incredibly grateful for the opportunity to contribute to Kusama's journey towards a more open and decentralized future. Join us as we embrace this new chapter together!
+
+Thank you for your continued support. Let's continue to build a more decentralized tomorrow!

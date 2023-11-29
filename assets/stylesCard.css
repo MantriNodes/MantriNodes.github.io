@@ -1,0 +1,54 @@
+/* styles.css */
+
+.card-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+}
+
+.validator-card {
+  background-color: #f5f5f5;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+}
+
+.validator-card h2 {
+  margin-bottom: 10px;
+  font-size: 1.5rem;
+}
+
+.validator-card p {
+  margin-bottom: 15px;
+  font-size: 1rem;
+}
+
+.validator-card a {
+  display: block;
+}
+
+.validator-card img {
+  max-width: 50%;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
+a.btn_card {
+  display: block;
+  width: fit-content;
+  margin: 20px auto 0;
+  padding: 8px 16px;
+  background-color: #416175;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+a.btn_card:hover {
+  background-color: #2980b9;
+}
